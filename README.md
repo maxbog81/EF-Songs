@@ -1,2 +1,2 @@
 # EF-Songs
-Entity Framework- Выбор песни из БД
+Entity Framework- Список песен с артистами
